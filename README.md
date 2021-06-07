@@ -14,4 +14,6 @@ Skills: JavaScript / Python / HTML / CSS
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheMystiq&theme=tokyonight">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMystiq&theme=tokyonight&hide=batchfile">
+
+
 <img aligh="right" src="https://github-readme-streak-stats.herokuapp.com?user=TheMystiq&theme=tokyonight&hide_border=false">
