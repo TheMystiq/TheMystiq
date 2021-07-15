@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm TheMystiq</h1>
 <h3 align="center">im poggers</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=themystiq&label=Profile%20views&color=0e75b6&style=flat" alt="themystiq" /> </p>
+
 
 - 🔭 I’m currently working on **Open Source projects 😎**
 
@@ -24,4 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themystiq&show_icons=true&locale=en&layout=compact" alt="themystiq" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themystiq&show_icons=true&locale=en" alt="themystiq" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=themystiq&label=Profile%20views&color=0e75b6&style=flat" alt="themystiq" /> </p>
+
