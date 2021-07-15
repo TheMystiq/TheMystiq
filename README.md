@@ -14,4 +14,6 @@ Skills: JavaScript / Python / HTML / CSS
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheMystiq&show_icons=true&theme=tokyonight">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMystiq&theme=tokyonight&hide=batchfile">
+![Profile Views](https://komarev.com/ghpvc/?username=TheMystiq&color=blueviolet)
+
 
