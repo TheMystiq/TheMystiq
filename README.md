@@ -2,8 +2,6 @@
 <h3 align="center">im poggers</h3>
 
 
-<p align="left"> <a href="https://twitter.com/realmystiq" target="blank"><img src="https://img.shields.io/twitter/follow/realmystiq?logo=twitter&style=for-the-badge" alt="realmystiq" /></a> </p>
-
 - 🔭 I’m currently working on **Open Source projects 😎**
 
 - 🌱 I’m currently learning **Javascript / Python**
