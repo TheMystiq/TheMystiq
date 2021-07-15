@@ -24,5 +24,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=TheMystiq&theme=tokyonight"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMystiq&theme=tokyonight&hide=batchfile">
 
-<img align="left" src="https://komarev.com/ghpvc/?username=themystiq&label=Profile%20views&color=0e75b6&style=flat">
+<img align="left" src="https://komarev.com/ghpvc/?username=themystiq&label=Profile%20views&color=0e75b6&style=brightgreen">
 
